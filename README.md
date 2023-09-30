@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amit Rajput</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajput1772&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajput1772" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amitrajput1772" target="blank"><img src="https://img.shields.io/twitter/follow/amitrajput1772?logo=twitter&style=for-the-badge" alt="amitrajput1772" /></a> </p>
+
+- 📫 How to reach me **https://www.linkedin.com/in/amitrajput1772/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
